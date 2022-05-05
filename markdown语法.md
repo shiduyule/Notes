@@ -73,6 +73,9 @@ function add(x, y) {
 [Other](other.md)
 
 ![OrangeX's Avatar](images/profile.jpg)
+
+![](images/2022-05-05-17-14-24.png)
+
 ---
 
 表格:
